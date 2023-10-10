@@ -1,6 +1,6 @@
 import React from "react";
 //import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
-import s from "./MapContainer.module.css";
+//import s from "./MapContainer.module.css";
 import mapa1 from "../../Img/mapa 1.png";
 import mapa2 from "../../Img/mapa 2.png";
 

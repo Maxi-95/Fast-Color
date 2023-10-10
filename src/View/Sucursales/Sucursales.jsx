@@ -1,5 +1,5 @@
 import React from "react";
-import MapContainer from "../../Componentes/Mapa/MapContainer";
+import MapContainer from "../../Componentes/Mapa/MapaContainer";
 
 function Sucursales() {
   return (

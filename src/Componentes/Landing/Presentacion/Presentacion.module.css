@@ -1,0 +1,45 @@
+.caja1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 750px;
+  background-color: rgb(146, 146, 146);
+}
+.hero {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 85vh;
+}
+
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: white;
+  text-align: center;
+  background: rgba(
+    0,
+    0,
+    0,
+    0.795
+  ); /* Agrega un fondo semitransparente para legibilidad */
+}
+.p {
+  position: absolute;
+  width: 150px;
+  background-color: rgb(93, 136, 230);
+}

@@ -1,0 +1,21 @@
+.caja1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 750px;
+  background-color: rgb(146, 146, 146);
+}
+.caja2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 750px;
+  background-color: rgb(206, 206, 206);
+}
+.whatsapp {
+  width: 160px;
+  position: fixed;
+  bottom: 30px; /* Ajusta la distancia desde la parte inferior según tus preferencias */
+  right: 30px; /* Ajusta la distancia desde la derecha según tus preferencias */
+  z-index: 1000; /* Asegura que esté por encima de otros elementos */
+}

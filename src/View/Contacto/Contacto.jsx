@@ -106,7 +106,6 @@ function Contacto() {
                   alt=""
                   class="w-50 h-50"
                 />{" "}
-                {/* cscjknas */}
               </a>
             </p>{" "}
           </div>{" "}

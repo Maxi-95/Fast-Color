@@ -10,7 +10,7 @@ import Footer from "../../Componentes/Footer/Footer";
 function Landing() {
   return (
     <div>
-      <a
+      {/* <a
         href="https://web.whatsapp.com/send?phone=351 2521579"
         target="_blank"
         rel="noopener noreferrer"
@@ -20,7 +20,7 @@ function Landing() {
           alt="WhatsApp"
           className={s.whatsapp}
         />
-      </a>
+      </a> */}
       <div>
         <Presentacion />
         <Servicios />

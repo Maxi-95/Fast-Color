@@ -12,7 +12,7 @@ function TipoProductos() {
         backgroundPosition: "center",
       }}
     >
-      <h1 class="text-4xl mb-10 text-white ml-40 pt-20">Tipos de Prodctos</h1>
+      <h1 class="text-4xl mb-10 text-white ml-40 pt-20">Tipos de Productos</h1>
       <section class="text-gray-200 body-font border-b border-gray-700">
         <div class="container mx-auto flex px-5 pb-24 md:flex-row flex-col items-center">
           <div

@@ -16,7 +16,7 @@ function Presentacion() {
           <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
             <div class="text-center lg:w-2/3 w-full">
               <h1 class="flex aling-center justify-center title-font sm:text-8xl text-7xl mb-4 font-medium text-white">
-                Pintureria Automotriz Fast
+                Pintureria Fast
                 <h1 class="ml-3 mr-3 text-red-700">COLOR</h1>
               </h1>
               <h2 class="text-3xl text-red-500 tracking-widest font-medium title-font mb-1"></h2>

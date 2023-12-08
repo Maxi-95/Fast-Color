@@ -1,4 +1,10 @@
 import s from "./Nosotros.module.css";
+import galeria1 from "../../Img/galeria1.jfif";
+import galeria2 from "../../Img/galeria2.jfif";
+import galeria3 from "../../Img/galeria3.jfif";
+import galeria4 from "../../Img/galeria4.jfif";
+import galeria5 from "../../Img/galeria5.jfif";
+import galeria6 from "../../Img/galeria6.jfif";
 
 function Nosotros() {
   return (
@@ -49,21 +55,21 @@ function Nosotros() {
                 <img
                   alt="gallery"
                   class="w-full object-cover h-full object-center block"
-                  src="https://dummyimage.com/500x300"
+                  src={galeria1}
                 />
               </div>
               <div class="md:p-2 p-1 w-1/2">
                 <img
                   alt="gallery"
                   class="w-full object-cover h-full object-center block"
-                  src="https://dummyimage.com/501x301"
+                  src={galeria2}
                 />
               </div>
               <div class="md:p-2 p-1 w-full">
                 <img
                   alt="gallery"
                   class="w-full h-full object-cover object-center block"
-                  src="https://dummyimage.com/600x360"
+                  src={galeria3}
                 />
               </div>
             </div>
@@ -72,21 +78,21 @@ function Nosotros() {
                 <img
                   alt="gallery"
                   class="w-full h-full object-cover object-center block"
-                  src="https://dummyimage.com/601x361"
+                  src={galeria4}
                 />
               </div>
               <div class="md:p-2 p-1 w-1/2">
                 <img
                   alt="gallery"
                   class="w-full object-cover h-full object-center block"
-                  src="https://dummyimage.com/502x302"
+                  src={galeria5}
                 />
               </div>
               <div class="md:p-2 p-1 w-1/2">
                 <img
                   alt="gallery"
                   class="w-full object-cover h-full object-center block"
-                  src="https://dummyimage.com/503x303"
+                  src={galeria6}
                 />
               </div>
             </div>
